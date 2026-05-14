@@ -1,11 +1,33 @@
 # Simple Admin Login Logger
 
-Simple WordPress plugin that logs WordPress admin login activity.
+A lightweight WordPress admin login logger for tracking administrator login activity and improving security monitoring.
 
 ## Features
-- Tracks user login events
-- Lightweight and simple
-- Useful for debugging and monitoring
 
-## Purpose
-Demonstration plugin created for WordPress technical support and troubleshooting workflows.
+- Track WordPress admin login activity
+- Log usernames and login timestamps
+- Lightweight and simple implementation
+- Useful for troubleshooting and security auditing
+
+## Use Cases
+
+Useful for:
+- WordPress support engineers
+- Security monitoring
+- Admin activity tracking
+- Troubleshooting unauthorized access
+- Website maintenance workflows
+
+## Tech Stack
+
+- PHP
+- WordPress Hooks & Actions
+- WordPress Admin APIs
+
+## Future Improvements
+
+- Admin dashboard interface
+- Export login logs
+- Email notifications
+- Failed login monitoring
+- AI-based suspicious activity detection
